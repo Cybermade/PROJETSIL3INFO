@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1635373391 source:/home/cybermade/Workspace/SI/Projet/main.cpp
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<cstdlib>
+	<cstdio>
+	<jpeglib.h>
+	<jerror.h>
+	<math.h>
+	<iostream>
+
+1634659484 source:/home/cybermade/Workspace/SI/Projet/back.cpp
+	"prototypes.h"
+	"math.h"
+
+1634659534 /home/cybermade/Workspace/SI/Projet/prototypes.h
+
+1635785014 source:/home/cybermade/Workspace/SI/PROJETTRIAL/main.cpp
+	"Prototypes.h"
+
+1635785105 /home/cybermade/Workspace/SI/PROJETTRIAL/Prototypes.h
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<cstdlib>
+	<cstdio>
+	<jpeglib.h>
+	<jerror.h>
+	<cmath>
+	<iostream>
+
+1635448648 source:/home/cybermade/Workspace/SI/PROJETTRIAL/corpsmid.cpp
+	"Prototypes.h"
+	<cmath>
+
+1635785102 source:/home/cybermade/Workspace/SI/PROJETTRIAL/CorpsMid.cpp
+	"Prototypes.h"
+
+1635785097 source:/home/cybermade/Workspace/SI/PROJETTRIAL/CorpsPieds.cpp
+	"Prototypes.h"
+
+1635785116 source:/home/cybermade/Workspace/SI/PROJETTRIAL/CorpsQueue.cpp
+	"Prototypes.h"
+
+1635782959 source:/home/cybermade/Workspace/SI/PROJETTRIAL/CorpsBack.cpp
+	"Prototypes.h"
+
+1635785119 source:/home/cybermade/Workspace/SI/PROJETTRIAL/CorpsTop.cpp
+	"Prototypes.h"
+
+1635785122 source:/home/cybermade/Workspace/SI/PROJETTRIAL/CorpsTopHead.cpp
+	"Prototypes.h"
+
+1635785126 source:/home/cybermade/Workspace/SI/PROJETTRIAL/CorpsPiques.cpp
+	"Prototypes.h"
+
